@@ -1,11 +1,4 @@
-## Project Description
-   GitHub workshop practice repo.
-
-   ## How to Run
-   1. Clone repo
-   2. Open files
-   3. Check README
-
-   ## Folder Structure
-   - README.md
-   - intro.txt
+E-NEXUS-WORKSHOP
+  FOLKS MENTION YOUR NAME AS BRANCH AND IN THIS READ ME ADD THE REGISTRATION NUMBER FOLK ALL THE BEST
+ Workshop task update by jaya shree reg 99220041493
+   
